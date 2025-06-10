@@ -1,8 +1,8 @@
-# FridgeFinds 🥗
+# FridgeFinds 
 
 FridgeFinds is an intuitive recipe discovery application that helps you cook delicious meals with ingredients you already have. Stop wondering what to cook - simply input your available ingredients and let FridgeFinds suggest personalized recipes!
 
-## ✨ Features
+##  Features
 
 - **Ingredient-Based Search**: Find recipes based on ingredients you have at home
 - **Smart Filtering**: Filter recipes by dietary preferences (vegetarian, vegan, gluten-free, dairy-free)
@@ -11,7 +11,7 @@ FridgeFinds is an intuitive recipe discovery application that helps you cook del
 - **Favorites System**: Save your favorite recipes for quick access
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
 
-## 🛠️ Built With
+##  Built With
 
 - **Next.js 14** - React framework for production
 - **React 18** - UI components and hooks
@@ -19,7 +19,7 @@ FridgeFinds is an intuitive recipe discovery application that helps you cook del
 - **Spoonacular API** - Recipe data and search functionality
 - **Vercel** - Deployment and hosting
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Clone the repository:
    ```bash
@@ -37,7 +37,7 @@ FridgeFinds is an intuitive recipe discovery application that helps you cook del
    npm run dev
    ```
 
-## 🔑 API Key Setup
+##  API Key Setup
 
 ### Option 1: Environment Variable (Recommended for Development)
 1. Create a `.env.local` file in the root directory
@@ -47,7 +47,7 @@ FridgeFinds is an intuitive recipe discovery application that helps you cook del
    ```
 
 ### Option 2: User Settings
-1. Click the settings icon (⚙️) in the bottom right corner
+1. Click the settings icon in the bottom right corner
 2. Enter your Spoonacular API key in the settings modal
 3. Your key will be saved locally
 
@@ -56,7 +56,7 @@ To get a Spoonacular API key:
 2. Navigate to your profile
 3. Copy your API key
 
-## 📱 Usage
+##  Usage
 
 1. Enter ingredients you have in your kitchen
 2. Use quick-add buttons for common ingredients
@@ -65,7 +65,7 @@ To get a Spoonacular API key:
 5. Save your favorite recipes for future reference
 6. Click on any recipe to view detailed instructions
 
-## 🔧 Deployment
+##  Deployment
 
 To deploy on Vercel:
 1. Fork or clone this repository
@@ -74,10 +74,10 @@ To deploy on Vercel:
    - Go to Vercel Dashboard → Your Project → Settings → Environment Variables
    - Add `SPOONACULAR_API_KEY` with your API key
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to open issues and submit pull requests.
 
-## 📝 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
